@@ -1,0 +1,13 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mb-3 {
+    margin: 0 !important;
+}
+
+.text-danger {
+    color: red !important
+}
